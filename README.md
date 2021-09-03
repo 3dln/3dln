@@ -49,7 +49,6 @@ You can use [Chamelion](https://marketplace.visualstudio.com/items?itemName=3dln
 
 🍻 cheers
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=3dln&count_private=true&show_icons=true&theme=dracula)
 ![](https://raw.githubusercontent.com/3dln/3dln/main/profile-summary-card-output/dracula/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/3dln/3dln/main/profile-summary-card-output/dracula/3-stats.svg)

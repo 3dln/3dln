@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **3dln/3dln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a super passionate UI artist :peacock:<br /> a creative UX/DX designer :carousel_horse:<br />a client/server programmer/architect :chess_pawn:<br />
-and a game developer :video_game: <br />
-and yes... ofcourse that's not all about me<br />
-I'm a fulltime father and husband :family_man_woman_boy:<br />
-a morning yogist :lotus_position_man:<br />
-a midday meditator :pray:<br />
-and a night gym rat :muscle: <br />
-🐱‍🐉 Fun fact: I could be a vegeterian if I wasn't a steak lover :cut_of_meat:
+I'm an enthusiastic UI artist 🦚 with a passion for creating stunning user experiences. As a versatile UX/DX designer 🎠, I love crafting seamless interactions that delight users and developers alike. In addition to being a client/server programmer/architect ♟️, I am also deeply immersed in the world of game development 🎮.
 
-I use Python, Javascript and C# in Flask, Node.js, Next.js, React Native and Unity alongside with Tailwind, Rive, MongoDB, Three.js, Docker, Kubertenes and many many other great tools to bring my dreams alive.
+But wait, there's more to me than just my professional pursuits! I proudly embrace my roles as a devoted full-time father and husband 👨‍👩‍👦. In my spare time, you'll find me practicing morning yoga 🧘‍♂️, meditating during the day 🙏, and hitting the gym at night 💪.
+
+🐱‍🐉 Fun fact: I could be a vegetarian if I wasn't a steak lover 🥩
+
+I bring my dreams to life using a powerful toolkit, including Python, JavaScript, and C#. I work with frameworks such as Flask, Node.js, Next.js, React Native, and Unity, and I harness the potential of tools like Tailwind, Rive, MongoDB, Three.js, Docker, Kubernetes, and many others to build extraordinary projects.
+
+Let's connect and create something amazing together! 🚀
 
 <br />
 
